@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "modal": "^1.2.0",
+    "ngx-bootstrap": "^10.2.0"
+  }
+}
